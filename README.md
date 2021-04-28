@@ -3,8 +3,8 @@
 
 
 <p align="center"> 
-         <B>Java _ eclipse</B><br><br>
-          Korea National University of Transportation Java in 2021 
+         <B>Algorithm _ Visual Code</B><br><br>
+          Korea National University of Transportation Algorithm in 2021 
 </p>
 
 
